@@ -1,6 +1,6 @@
 # React Admin Dashboard
 참고 : [https://citylock77.tistory.com/category/REACT/Admin%20Dashboard%20-%20project%20%231](https://citylock77.tistory.com/category/REACT/Admin%20Dashboard%20-%20project%20%231)
-
+[https://www.youtube.com/watch?v=aTPkos3LKi8](https://www.youtube.com/watch?v=aTPkos3LKi8)
 - ui : material-ui
 - icon : material-ui icon [https://mui.com/components/material-icons/](https://mui.com/components/material-icons/)
 - datagrird : x-data-grid
