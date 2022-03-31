@@ -1,3 +1,11 @@
+# React Admin Dashboard
+참고 : [https://citylock77.tistory.com/category/REACT/Admin%20Dashboard%20-%20project%20%231](https://citylock77.tistory.com/category/REACT/Admin%20Dashboard%20-%20project%20%231)
+
+- ui : material-ui
+- icon : material-ui icon [https://mui.com/components/material-icons/](https://mui.com/components/material-icons/)
+- datagrird : x-data-grid
+- chart : recharts
+- font : Source Sans Pro
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
